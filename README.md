@@ -13,9 +13,9 @@ After making an account on climate.copernicus.eu the data can be fetched using f
 
 ### Čakovec
 
-![](image_Čakovec_200.png)
+![](monthly_image_Čakovec_200.png)
 
 ### Zagreb
 
-![image_Zagreb_200](image_Zagreb_200.png)
+![image_Zagreb_200](monthly_image_Zagreb_200.png)
 
