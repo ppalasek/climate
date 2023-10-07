@@ -13,9 +13,11 @@ After making an account on climate.copernicus.eu the plots can be generated usin
 
 ### Čakovec
 
-![](monthly_image_Čakovec_200.png)
+![](monthly_image_Čakovec_200_1971_2000.png)
+![](monthly_image_Čakovec_200_1991_2020.png)
 
 ### Zagreb
 
-![image_Zagreb_200](monthly_image_Zagreb_200.png)
+![](monthly_image_Zagreb_200_1971_2000.png)
+![](monthly_image_Zagreb_200_1991_2020.png)
 
